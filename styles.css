@@ -1,0 +1,33 @@
+*, html {
+  margin: 0;
+  padding: 0;
+}
+
+.body-container {
+  padding: 20px 10px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.input-container {
+  margin-top: 10px;
+}
+
+.p-container {
+  display: flex;
+  margin-top: 6px;
+  padding-top: 0;
+}
+
+.p-container p {
+  margin-right: 130px;
+}
+
+button {
+  padding: 2px 5px;
+  margin-bottom: 10px;
+}
